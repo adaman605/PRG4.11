@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body{
+    font-size: 20px;
+}
+p{
+    color: rgb(1, 134, 83);
+    font-style: italic;
+}
+.kur{
+    color: rgb(0, 217, 255);
+    font-family: 'Itim';
+}
+#druhy{
+    color: crimson;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: monospace;
+}
+.gallus{
+    background-color: blueviolet;
+}
+/*Velký černý kohout*/
